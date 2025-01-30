@@ -1,6 +1,4 @@
-# customer_churn
-# README: Customer Churn Analysis
-
+# customer_churn Analysis
 ## Data Dictionary
 The dataset includes the following information:
 - **Churn**: Indicates whether a customer left within the last month.
